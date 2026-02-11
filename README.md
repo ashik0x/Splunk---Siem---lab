@@ -58,3 +58,23 @@ Indexer + Search Head
 - Process Creation  
 - Network Connections  
 - PowerShell Script Execution
+
+## 📈 Sample Searches
+
+```spl
+index=windows EventCode=4624 OR EventCode=4625
+
+Spl
+index=sysmon EventCode=1 OR EventCode=3
+
+Spl
+index=powershell EventCode=4104
+
+---
+
+## 🧠 Skills Demonstrated
+-SIEM deployment
+-Windows log ingestion
+-SOC monitoring
+-Detection engineering
+-Splunk SPL
