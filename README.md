@@ -31,28 +31,28 @@ Indexer + Search Head
 
 ## 🎯 Objectives
 
-- Deploy a working SIEM solution
-- Collect Windows Security, System & Application logs
-- Monitor Sysmon and PowerShell activity
-- Detect authentication events and suspicious behavior
-- Gain SOC analyst hands-on experience
+- Deploy a working SIEM solution  
+- Collect Windows Security, System & Application logs  
+- Monitor Sysmon and PowerShell activity  
+- Detect authentication events and suspicious behavior  
+- Gain SOC analyst hands-on experience  
 
 ---
 
 ## 📦 Log Sources Collected
 
-|          Source       |    Index   |
-|            |                 |
-| Windows Security Logs |   windows  |
-| Windows System Logs   |   windows  |
-| Sysmon Logs           |   sysmon   |
-| PowerShell Logs       | powershell |
+| Source                 | Index      |
+|------------------------|------------|
+| Windows Security Logs  | windows    |
+| Windows System Logs    | windows    |
+| Sysmon Logs            | sysmon     |
+| PowerShell Logs        | powershell |
 
 ---
 
-## 🔍 Detection Use Cases
+## 🔎 Detection Use Cases
 
--Login Success / Failure
--Process Creation
--Network Connections
--Powershell Script Execution
+- Login Success / Failure  
+- Process Creation  
+- Network Connections  
+- PowerShell Script Execution
