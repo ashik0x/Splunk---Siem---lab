@@ -1,6 +1,6 @@
----
-
 # 🛠️ PART 1️⃣: Install Splunk Enterprise on Kali Linux
+
+---
 
 ## Step 1: Download Splunk Enterprise
 
