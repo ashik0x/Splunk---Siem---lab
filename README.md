@@ -73,3 +73,17 @@ index=sysmon EventCode=1 OR EventCode=3
 index=powershell EventCode=4104
 ```
 
+---
+
+## 🧠 Skills Demonstrated
+
+- SIEM Deployment  
+- Windows Log Ingestion  
+- Sysmon Configuration  
+- SOC Monitoring  
+- Incident Investigation  
+- Detection Engineering  
+- Splunk SPL Queries  
+
+---
+
