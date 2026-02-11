@@ -8,12 +8,14 @@ This project simulates a real-world SOC environment where Windows logs are forwa
 
 ## 🧠 Architecture
 
+```
 Windows 10 (Universal Forwarder)
-        │
-        │ TCP 9997
+        |
+        |  TCP 9997
         ▼
 Kali Linux (Splunk Enterprise)
 Indexer + Search Head
+```
 
 ---
 
