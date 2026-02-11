@@ -72,7 +72,16 @@ index=sysmon EventCode=1 OR EventCode=3
 ```spl
 index=powershell EventCode=4104
 ```
+---
 
+## 🧪 Validation Checklist
+
+✔ Logs received on indexer  
+✔ Forwarder visible in Splunk  
+✔ Security & Sysmon events searchable  
+✔ PowerShell activity detected  
+
+---
 ---
 
 ## 🧠 Skills Demonstrated
