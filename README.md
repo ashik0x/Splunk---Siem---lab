@@ -98,5 +98,5 @@ index=powershell EventCode=4104
 
 ## 📘 Documentation
 
-- [Installation Guide](docs/installation.md)
+- [Installation Guide](docs)
 
